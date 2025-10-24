@@ -1,0 +1,15 @@
+name,quantity,price,category_id
+LG washing machine,53,8509.99,2
+Sumsung washing machine,30,1938.08,2
+LG single chamber refrigerator,97,8233.48,4
+Sumsung single chamber refrigerator,100,1755.01,4
+LG two-chamber refrigerator,18,1537.39,5
+Sumsung two-chamber refrigerator,39,9810.85,5
+LG TV,72,8024.42,6
+Sumsung TV,96,7431.54,6
+LG Computer 17“,78,4614.46,8
+Sumsung Computer 17“,8,4435.96,8
+LG Computer 19“,88,2956.54,9
+Sumsung Computer 19“,63,7533.62,9
+LG Monoblock,1,4421.51,10
+Sumsung Monoblock,36,4933.06,10
